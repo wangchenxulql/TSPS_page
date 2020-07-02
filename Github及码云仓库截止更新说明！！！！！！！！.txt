@@ -1,0 +1,5 @@
+由于Github和码云仓库传输速度问题，自TSPS V14 未来版之后的版本将不会在此仓库更新。
+新版本的更新将在本地下载和百度网盘两种方式更新，详情请访问如下网站：
+本地下载： https://axugo.lanzous.com/b01bg6gab
+百度网盘见官网：https://wangchenxu.neocities.org/TSPS_download.html
+2020年7月2日
